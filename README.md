@@ -11,6 +11,7 @@ For example, if name of your friend is John and you have 9 samples of his image.
 
 Now place the image of the face you want to recoginze under "guess_image" folder.
 Run the "guess.sh" to get the result. Just give it a try and have fun :)
+Once trained, please place only one image at a time under "guess_image" folder.
 
 Prerequisites:
 Octave/Matlab needs to be installed.
